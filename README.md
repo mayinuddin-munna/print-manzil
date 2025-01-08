@@ -38,6 +38,7 @@ To run the project locally, ensure the following are installed on your system:
 
 
 Folder Structure
+```bash
 .
 ├── src/
 │   ├── App.css           # Styling for the application
